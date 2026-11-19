@@ -1,3 +1,4 @@
+#![forbid(unsafe_code)]
 //! SigmaOS-data-accessibility: data accessibility model.
 //!
 //! Real implementation: permissions, roles, audit trails, and validation.
